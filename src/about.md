@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About the Author
 permalink: /about/
 ---
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
-
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+I served the JavaScripts and polished the Rubies professionally for a little over a year, then a virus made me unemployed. I am excited about the ease of use and niftyness of Bridgetown!
