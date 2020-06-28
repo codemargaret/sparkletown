@@ -5,7 +5,7 @@
 # in the templates via {{ site.metadata.myvariable }}.
 
 title: Sparkletown
-tagline: Unapologetic fancyness.
+tagline: Unapologetic fanciness.
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sparkletown implements the new Bulmatown theme and SnipCart.

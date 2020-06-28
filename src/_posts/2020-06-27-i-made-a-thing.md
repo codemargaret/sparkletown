@@ -2,7 +2,9 @@
 layout: post
 title:  "I Made a Thing"
 date:   2020-06-27 11:38:04 -0700
+author: margaret
 categories: updates
+image: "/images/fuchsia.jpg"
 ---
 
 The thing is fuchsia. It could also have been `default` (teal), `rust`, or `fineart`(black). 
