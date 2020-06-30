@@ -7,6 +7,25 @@ This will chronicle my journey into Bridgetown and Bulmatown, with a short stop 
 ----
 {: .my-6}
 
+# Products
+{: .mb-5 .title .has-text-centered}
+
+### 100% Real Diamond
+
+This genuine diamond is a steal at $9.95! But definitely not stolen haha!
+
+<img src="/images/diamond.jpg" alt="diamond" width="550" height="600">
+
+<button class="buy-button snipcart-add-item"
+  data-item-id="1"
+  data-item-price="9.95"
+  data-item-url="/"
+  data-item-description="This genuine diamond is a steal at $9.95!"
+  data-item-image="/images/diamond.jpg"
+  data-item-name="100% Real Diamond">
+  Find happiness through commerce
+</button>
+
 # Latest Articles
 {: .mb-5 .title .has-text-centered}
 
