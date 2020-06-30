@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This will chronicle my journey into Bridgetown and Bulmatown, with a short stop for some shopping.
+My journey into Bridgetown and Bulmatown, with a short stop for some shopping.
 
 ----
 {: .my-6}

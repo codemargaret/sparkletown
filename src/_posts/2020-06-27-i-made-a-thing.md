@@ -9,4 +9,4 @@ image: "/images/fuchsia.jpg"
 
 The thing is fuchsia. It could also have been `default` (teal), `rust`, or `fineart`(black). 
 
-Getting the requirements in place took a minute, but the [installation docs](https://www.bridgetownrb.com/docs/installation) were thorough and helpful. Following the [quick instructions](https://www.bridgetownrb.com/docs/) gave me a basic Hello Bridgetown site, and adding [Bulmatown](https://github.com/whitefusionhq/bulmatown) made it look like something that could actually go on the real Internet.
+I followed the Bridgetown [installation docs](https://www.bridgetownrb.com/docs/installation) and [quick instructions](https://www.bridgetownrb.com/docs/) to create a basic Hello Bridgetown site. After that, adding the [Bulmatown](https://github.com/whitefusionhq/bulmatown) theme was easy, and quickly made it look polished enough to actually go on the real Internet.
