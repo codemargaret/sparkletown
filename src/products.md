@@ -4,7 +4,7 @@ title: Products
 ---
 
 {% for product in site.products %}
-  <h2><a class="is-decorationless" href="{{ product.id }}">{{ product.name }}</a> | ${{ product.price }}</h2>
+  <h2>{{ product.name }} | ${{ product.price }}</h2>
   <img src="{{ product.image }}" alt="{{ product.alt }}" width="550" height="600">
   <p>{{ product.description }}</p>
   <p>{{ product.content | markdownify }}</p>
