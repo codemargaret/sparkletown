@@ -22,4 +22,8 @@ permalink: pretty
 pagination:
   enabled: true
 
+collections:
+  products:
+    output: true
+
 # timezone: America/Los_Angeles
