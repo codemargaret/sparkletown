@@ -1,3 +1,7 @@
 $theme_variation: fuchsia;
 
-@import "~bulmatown/frontend/styles"
+@import "~bulmatown/frontend/styles";
+
+.snipcart-modal__container {
+  z-index: 31;
+}
